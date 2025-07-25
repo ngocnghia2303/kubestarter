@@ -1,5 +1,5 @@
 ## Kubernetes Kickstarter
-
+The video records as below: https://www.youtube.com/watch?v=W04brGNgxN4
 ### Kubernetes In One Shot
 
 Learn Kubernetes concepts in a 12 hour tutorial by TrainWithShubham [here](https://youtu.be/W04brGNgxN4?si=KuUs-ajJOE7TfYs-)
